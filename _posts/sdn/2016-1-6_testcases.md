@@ -73,23 +73,23 @@ Use case介绍了很多，像vPE、vIMS、vEPC、vCDN等等，但是实际有介
 ##4. OPNFV支持的testcase
 下图是目前OPNFV版本对应包含的testcase信息，目前Arno版本只包含了上述4个testcase，Brahmaputra版本目前还没有发布。所以有好多vnf还Arno还没有支持。
 
-![NFV arno overview]({{ site.url }}/image/2015-12-03/testcase.png)
+![testcase]({{ site.url }}/image/2015-12-03/testcase.png)
 
 ##5. vPE--Provider Edge
 
 基本的vPE拓扑结构是由一个vPE instance保证一个tenant中所有suite的连通。下图为拓扑图：
 
-![NFV arno overview]({{ site.url }}/image/2015-12-03/topology_PE.png)
+![PE Topology]({{ site.url }}/image/2015-12-03/topology_PE.png)
 
 其中SUT（system underlay test）指OPNFV平台或者一些VNF组件。CE/PE用IXIA来模拟。
 对系统的配置要求如下：
 
-![NFV arno overview]({{ site.url }}/image/2015-12-03/configuration_PE.png)
-![NFV arno overview]({{ site.url }}/image/2015-12-03/hardware_PE.png)
+![PE configuration requirements]({{ site.url }}/image/2015-12-03/configuration_PE.png)
+![PE hardware requirements]({{ site.url }}/image/2015-12-03/hardware_PE.png)
 
 对应与NFV架构的系统结构图如下所示，在NFVI上实例化的VNF就是vPE，其他的VNF也可以应用于此。
 
-![NFV arno overview]({{ site.url }}/image/2015-12-03/architecture.png)
+![architecture]({{ site.url }}/image/2015-12-03/architecture.png)
 
 ##6. References
 [vnf_deployment_test_cases:https://wiki.opnfv.org/vnf_deployment_test_cases](https://wiki.opnfv.org/vnf_deployment_test_cases)
