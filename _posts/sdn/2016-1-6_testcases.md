@@ -83,7 +83,7 @@ Use case介绍了很多，像vPE、vIMS、vEPC、vCDN等等，但是实际有介
 
 其中SUT（system underlay test）指OPNFV平台或者一些VNF组件。CE/PE用IXIA来模拟。
 对系统的配置要求如下：
-
+![]()
 ![NFV arno overview]({{ site.url }}/image/2015-12-03/configuration_PE.png)
 ![NFV arno overview]({{ site.url }}/image/2015-12-03/hardware_PE.png)
 
