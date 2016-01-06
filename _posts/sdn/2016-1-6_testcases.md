@@ -22,23 +22,27 @@ Use case介绍了很多，像vPE、vIMS、vEPC、vCDN等等，但是实际有介
 * vPing 
 
 主要用于测试两个vm的连通性。
-测试时输入：$ python <functest_repo_directory>/vPing/vPing.py -d <Your_functest_directory>
+测试时输入：
+        $ python <functest_repo_directory>/vPing/vPing.py -d <Your_functest_directory>
 
 * Rally Bench
 
 主要用于测试Openstack不同组件，并获取VIM（Openstack）的信息，如authenticate、cinder、nova、requests、glance、keystone、neutron、quotas
 在测试时在相应位置输入模块名称即可。测试时输入：
-$ python <functest_repo_directory>/testcases/VIM/OpenStack/CI/libraries/run_rally.py <functest_repo_directory> <module_to_be_tested>
+
+    $ python <functest_repo_directory>/testcases/VIM/OpenStack/CI/libraries/run_rally.py <functest_repo_directory> <module_to_be_tested>
 
 * Tempest 
 
 主要用于在环境安装好后，检查Openstack的基本功能，通过Rally来运行。对于Arno来说只提供了smoke test。
-测试时输入：# rally verify start smoke
+测试时输入：
+        # rally verify start smoke
 
 * Opendaylight
 
 主要用于测试OpenDaylight和Neutron创建和删除网络、子网和端口。
-测试时输入：python <functest_repo_directory>testcases/Controllers/ODL/CI/start_tests.sh
+测试时输入：
+        $ python <functest_repo_directory>testcases/Controllers/ODL/CI/start_tests.sh
 
 ##3.测试环境搭建步骤
 
