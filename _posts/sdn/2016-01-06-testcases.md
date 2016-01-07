@@ -23,8 +23,8 @@ Use case介绍了很多，像vPE、vIMS、vEPC、vCDN等等，但是实际有介
 
 主要用于测试两个vm的连通性。
 测试时输入：
-        $ python <functest_repo_directory>/vPing/vPing.py -d <Your_functest_directory>
-
+          $ python <functest_repo_directory>/vPing/vPing.py -d <Your_functest_directory>
+          
 * Rally Bench
 
 主要用于测试Openstack不同组件，并获取VIM（Openstack）的信息，如authenticate、cinder、nova、requests、glance、keystone、neutron、quotas
@@ -36,13 +36,13 @@ Use case介绍了很多，像vPE、vIMS、vEPC、vCDN等等，但是实际有介
 
 主要用于在环境安装好后，检查Openstack的基本功能，通过Rally来运行。对于Arno来说只提供了smoke test。
 测试时输入：
-        # rally verify start smoke
-
+         # rally verify start smoke
+         
 * Opendaylight
 
 主要用于测试OpenDaylight和Neutron创建和删除网络、子网和端口。
 测试时输入：
-        $ python <functest_repo_directory>testcases/Controllers/ODL/CI/start_tests.sh
+         $ python <functest_repo_directory>testcases/Controllers/ODL/CI/start_tests.sh
 
 ##3.测试环境搭建步骤
 
@@ -86,10 +86,6 @@ Use case介绍了很多，像vPE、vIMS、vEPC、vCDN等等，但是实际有介
 
 ![PE configuration requirements]({{ site.url }}/image/2016-01-06/configuration_PE.png)
 ![PE hardware requirements]({{ site.url }}/image/2016-01-06/hardware_PE.png)
-
-对应与NFV架构的系统结构图如下所示，在NFVI上实例化的VNF就是vPE，其他的VNF也可以应用于此。
-
-![architecture]({{ site.url }}/image/2015-12-03/architecture.png)
 
 ##6. References
 [vnf_deployment_test_cases:https://wiki.opnfv.org/vnf_deployment_test_cases](https://wiki.opnfv.org/vnf_deployment_test_cases)
