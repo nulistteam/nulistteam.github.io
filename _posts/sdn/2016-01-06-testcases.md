@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          Weekly Tech Meeting, 2016-01-06
+title:          Weekly Meeting, 2016-01-06
 category:       sdn
 description:    NFV,Arno,test cases
 ---
