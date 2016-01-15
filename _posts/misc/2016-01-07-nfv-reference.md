@@ -30,6 +30,6 @@ description:    NFV, SDN, References
 	* Fault Injection of OpenStack.Available at:[OpenStack](http://dl.acm.org/citation.cfm?id=2523622)
 
 ##6. Open Source VNFs
-* list of VNF. Available at:https://wiki.opnfv.org/list_of_open_source
+* OPNFV list of VNF. Available at:[link](https://wiki.opnfv.org/list_of_open_source)
 
 ####Last Updated: 2016-01-15
