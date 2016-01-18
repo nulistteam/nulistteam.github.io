@@ -31,4 +31,6 @@ description:    NFV, SDN, References
 ##6. Open Source VNFs
 * OPNFV list of VNF. Available at:[link](https://wiki.opnfv.org/list_of_open_source)
 
-####Last Updated: 2016-01-15
+##7. OpenStack fault diagnosis
+* HANSEL: Diagnosing Faults in OpenStack.[link](http://www.cs.berkeley.edu/~rishabhp/publications/Hansel.pdf)
+####Last Updated: 2016-01-18
