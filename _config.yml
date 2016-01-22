@@ -1,0 +1,8 @@
+markdown: rdiscount
+permalink: /:title
+
+title: NU List Team
+url: http://nulistteam.github.io
+feed: /feed.xml
+author_info: <a href="http://hellobinge.github.io">HelloBinge</a>
+
