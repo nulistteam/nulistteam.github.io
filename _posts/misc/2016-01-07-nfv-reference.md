@@ -33,4 +33,15 @@ description:    NFV, SDN, References
 
 ##7. OpenStack fault diagnosis
 * HANSEL: Diagnosing Faults in OpenStack.[link](http://www.cs.berkeley.edu/~rishabhp/publications/Hansel.pdf)
-####Last Updated: 2016-01-18
+
+##8. OpenStack Monitoring and Analytics
+* MonArch: Monitoring and Analytics in Software  Deﬁned Infrastructures.[link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7335305)
+
+##9. Methodology
+* PBAD: Perception-Based Anomaly Detection System for Cloud Datacenters. [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7214105&punumber%3D7194474%26filter%3DAND%28p_IS_Number%3A7212169%29%26pageNumber%3D4)
+* Autonomic Scaling of Cloud Computing Resources   using BN-based Prediction Models.[link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6710578)
+* Cognitive Behavior Analysis framework for Fault Prediction in Cloud Computing.[link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6464008&tag=1)
+* Bayesian Network, and Probabilistic Ontology Driven Trust Model for SLA Management of Cloud Services. [link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6968972)
+* PREPARE: Predictive Performance Anomaly Prevention for Virtualized Cloud Systems[link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6258001)
+* An Anomaly Detection Framework for Autonomic Management of  Compute Cloud Systems.[link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5615245)
+####Last Updated: 2016-01-29
