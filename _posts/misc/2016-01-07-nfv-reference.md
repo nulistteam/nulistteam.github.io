@@ -44,4 +44,9 @@ description:    NFV, SDN, References
 * Bayesian Network, and Probabilistic Ontology Driven Trust Model for SLA Management of Cloud Services. [link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6968972)
 * PREPARE: Predictive Performance Anomaly Prevention for Virtualized Cloud Systems[link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6258001)
 * An Anomaly Detection Framework for Autonomic Management of  Compute Cloud Systems.[link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5615245)
+
+##10. ETSI Documents for NFV
+* ETSI NFV Documents. [link](https://www.etsi.org/deliver/etsi_gs/)
+
+
 ####Last Updated: 2016-01-29
